@@ -1,0 +1,8 @@
+/home/valentinaadelsflugel/fiuba/concu/ejemplos-concurrentes/practicas/3-async/target/debug/deps/libfutures_macro-5aa70a1ca0c8c864.so: /home/valentinaadelsflugel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.15/src/lib.rs /home/valentinaadelsflugel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.15/src/executor.rs /home/valentinaadelsflugel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.15/src/join.rs /home/valentinaadelsflugel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.15/src/select.rs
+
+/home/valentinaadelsflugel/fiuba/concu/ejemplos-concurrentes/practicas/3-async/target/debug/deps/futures_macro-5aa70a1ca0c8c864.d: /home/valentinaadelsflugel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.15/src/lib.rs /home/valentinaadelsflugel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.15/src/executor.rs /home/valentinaadelsflugel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.15/src/join.rs /home/valentinaadelsflugel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.15/src/select.rs
+
+/home/valentinaadelsflugel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.15/src/lib.rs:
+/home/valentinaadelsflugel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.15/src/executor.rs:
+/home/valentinaadelsflugel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.15/src/join.rs:
+/home/valentinaadelsflugel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-macro-0.3.15/src/select.rs:

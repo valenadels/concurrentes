@@ -1,0 +1,1 @@
+std::iter::Map<std::iter::Take<std::slice::Iter<'_, (&std::string::String, &structures::site_info::TagData)>>, {closure@src/structures/site.rs:32:34: 32:44}>
