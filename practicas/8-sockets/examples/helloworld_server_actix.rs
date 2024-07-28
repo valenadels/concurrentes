@@ -41,8 +41,8 @@ impl StreamHandler<Result<String, std::io::Error>> for HelloServer {
 }
  */
 
-impl StreamHandler<Result<String, std::io::Error>> for HelloServer {
-    fn handle(&mut self, read: Result<String, std::io::Error>, ctx: &mut Self::Context) {
+impl StreamHandler<Result<String, io::Error>> for HelloServer {
+    fn handle(&mut self, read: Result<String, io::Error>, ctx: &mut Self::Context) {
         if let Ok(line) = read {
             println!("[{:?}] Hello {}", self.addr, line);
             let arc = self.write.clone();
